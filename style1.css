@@ -1,0 +1,66 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background-color:white;
+    background: url("netflixbg.jpg") no-repeat center center/cover;
+    font-family: 'Arial';
+}
+.login{
+        width: 382px;
+        overflow: hidden;
+        margin: auto;
+        margin: 20 0 0 450px;
+        padding: 50px;
+        background:rgb(250, 243, 243);
+        /*ackground: transparent;*/
+        border-radius: 15px ;
+
+}
+h1{
+    text-align: center;
+    color:  rgb(233, 64, 131);
+}
+h2{
+    text-align: center;
+    color: black;
+    padding: 20px;
+}
+label{
+    color: black;
+    font-size: 17px;
+}
+#Uname{
+    width: 300px;
+    height: 30px;
+    border: none;
+    border-radius: 3px;
+    padding-left: 8px;
+}
+#Pass{
+    width: 300px;
+    height: 30px;
+    border: none;
+    border-radius: 3px;
+    padding-left: 8px;
+
+}
+#log{
+    width: 300px;
+    height: 30px;
+    border: none;
+    border-radius: 17px;
+    padding-left: 7px;
+    color: rgb(232, 74, 148);
+
+
+}
+span{
+    color: rgb(233, 64, 131);
+    font-size: 17px;
+}
+a{
+    float: right;
+  
+}
+
